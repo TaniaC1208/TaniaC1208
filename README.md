@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TaniaC1208
+- 👋 Hi, I’m Tania
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently in 2nd year BSc IT
 - 💞️ I’m looking to collaborate on anything
