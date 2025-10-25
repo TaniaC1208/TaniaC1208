@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tania
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently in 2nd year BSc IT
+- 🌱 I’m currently a 3rd year BSc IT Student
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me on the links in my profile
 - 😄 Pronouns: she/her
